@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**Kalmera74/Kalmera74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kamil Demirtaş. I'm a game developer currently working at a hyper-casual game studio with an ambition to do more. I have worked on backend development before. In my last start-up, I was responsible for back-end development, project management, and coordinating the development of different projects with regard to customers' needs.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on 
+  - A Secret (For Now) 🤫
+- 🌱 I’m currently learning 
+  - Shader Programming (Shader Lab/CG)
+  - Game Engine Optimization
+  - .Net Core 6
+  
+- 📫 How to reach me:
+  - [kalmera74@gmail.com](mailto:kalmera74@gmail.com)
+  - [Linkedin](https://www.linkedin.com/in/kamil-demirtas)
+
+- 👍 I'm Confident With:
+  - C#
+  - OOP
+  - Rapid Prototyping
+  - Unity
+  - Debugging
+  - Communication
+  - Team Work
+  
+- 👌 I'm Comfortable With:
+  - Git
+  - Js
+  - Python
+  - PHP
+  - MySQL
+  - Linux 
