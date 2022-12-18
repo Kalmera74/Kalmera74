@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kamil Demirtaş. I'm a game developer currently working at a hyper-casual game studio with an ambition to do more. I have worked on backend development before. In my last start-up, I was responsible for back-end development, project management, and coordinating the development of different projects with regard to customers' needs.
+My name is Kamil Demirtaş. I'm a game developer currently working on hybrid-casual games with an ambition to do more. I have worked on backend development before. In my last start-up, I was responsible for back-end development, project management, and coordinating the development of different projects with regard to customers' needs.
 
 
 - 🔭 I’m currently working on 
@@ -13,6 +13,7 @@ My name is Kamil Demirtaş. I'm a game developer currently working at a hyper-ca
 - 📫 How to reach me:
   - [kalmera74@gmail.com](mailto:kalmera74@gmail.com)
   - [Linkedin](https://www.linkedin.com/in/kamil-demirtas)
+  - [Blog](kalmera.dev)
 
 - 👍 I'm Confident With:
   - C#
