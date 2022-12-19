@@ -13,7 +13,7 @@ My name is Kamil Demirtaş. I'm a game developer currently working on hybrid-cas
 - 📫 How to reach me:
   - [kalmera74@gmail.com](mailto:kalmera74@gmail.com)
   - [Linkedin](https://www.linkedin.com/in/kamil-demirtas)
-  - [Blog](kalmera.dev)
+  - [Blog](https://kalmera.dev)
 
 - 👍 I'm Confident With:
   - C#
