@@ -21,13 +21,12 @@ My name is Kamil Demirtaş. I'm a game developer currently working on hybrid-cas
   - Rapid Prototyping
   - Unity
   - Debugging
-  - Communication
+  - Performance Optimization
   - Team Work
   
 - 👌 I'm Comfortable With:
   - Git
-  - Js
-  - Python
+  - Js  
   - PHP
   - MySQL
   - Linux 
