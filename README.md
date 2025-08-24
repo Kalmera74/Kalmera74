@@ -1,32 +1,68 @@
-### Hi there 👋
+# Hi there 👋  
 
-My name is Kamil Demirtaş. I'm a game developer currently working on hybrid-casual games with an ambition to do more. I have worked on backend development before. In my last start-up, I was responsible for back-end development, project management, and coordinating the development of different projects with regard to customers' needs.
+My name is **Kamil Demirtaş**. I’m a **game developer with 6+ years of experience** in building complex systems, optimizing performance, creating tooling, and leading projects from prototype to production. Over time, my work has naturally expanded into **backend development**, where I’ve designed and maintained scalable systems to support live games and applications.  
 
+I’m now **transitioning into backend engineering roles** with a strong focus on **.NET Core** and **Golang**.  
+👉 Open to **backend developer opportunities** where I can apply my system design, memory management, concurrency, and optimization expertise.  
 
-- 🔭 I’m currently working on 
-  - A Secret (For Now) 🤫
-- 🌱 I’m currently learning 
-  - Shader Programming (Shader Lab/CG)
-  - Game Engine Optimization
-  - .Net Core 6
-  
-- 📫 How to reach me:
-  - [kalmera74@gmail.com](mailto:kalmera74@gmail.com)
-  - [Linkedin](https://www.linkedin.com/in/kamil-demirtas)
-  - [Blog](https://kalmera.dev)
+---
 
-- 👍 I'm Confident With:
-  - C#
-  - OOP
-  - Rapid Prototyping
-  - Unity
-  - Debugging
-  - Performance Optimization
-  - Team Work
-  
-- 👌 I'm Comfortable With:
-  - Git
-  - Js  
-  - PHP
-  - MySQL
-  - Linux 
+### 📌 Featured Projects
+
+#### [MangaRead.Crawler](https://github.com/Kalmera74/MangaRead.Crawler)  
+A scalable **.NET Core crawler** designed to scrape and aggregate manga data efficiently.  
+- Built with **.NET Core**, EF Core, and clean architecture principles.  
+- Implements **task-based concurrency** for high performance.  
+- Includes **robust error handling and retry logic** with Polly.  
+- Designed to be easily extended for new data sources.  
+
+---
+
+#### [MangaRead.Backend](https://github.com/Kalmera74/MangaRead.Backend)  
+A backend service built with **.NET Core** following **DDD and clean architecture**.  
+- Provides a RESTful API for manga data consumption.  
+- Uses **Entity Framework Core** with MySQL.  
+- Implements **caching, pagination, and search** endpoints.  
+- Includes **systemd deployment scripts** and **Docker support** for production readiness.  
+
+---
+
+## 🌱 Currently Learning
+- **Golang** for backend systems.  
+- Advanced backend patterns (clean architecture, CQRS, distributed systems).  
+
+---
+
+## 💡 Transferable Skills
+- **Backend Engineering**: .NET Core, EF Core, REST APIs, Docker, Linux, systemd services.  
+- **System Architecture & Optimization**: Proven ability to design performant, maintainable systems.  
+- **Database Design**: Relational database experience with MySQL and EF Core.  
+- **Problem-Solving Under Constraints**: Game dev honed my ability to optimize for speed, memory, and scalability.  
+- **Cross-Disciplinary Collaboration**: Experience leading teams and coordinating with stakeholders.  
+
+---
+
+## 📫 Reach Me
+- 📧 [kalmera74@gmail.com](mailto:kalmera74@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kamil-demirtas)  
+- 📝 [Blog](https://kalmera.dev)  
+
+---
+
+## ⚡ Skill Highlights  
+
+**Backend Engineering**  
+- C#, .NET Core, OOP, DDD  
+- System Analysis and Design  
+- Git, Linux, Docker  
+- Debugging & Performance Optimization  
+
+**Game Dev Expertise**  
+- Unity / Game Engine Architecture  
+- Tooling & Rapid Development Environments  
+- Performance & Memory Optimization  
+- Team Leadership & Collaboration  
+
+**In Progress**  
+- Golang 🚀  
+- JavaScript, PHP, MySQL  
