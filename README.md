@@ -11,7 +11,7 @@ I’m now **transitioning into backend engineering roles** with a strong focus o
 
 #### [MangaRead.Crawler](https://github.com/Kalmera74/MangaRead.Crawler)  
 A scalable **.NET Core crawler** designed to scrape and aggregate manga data efficiently.  
-- Built with **.NET Core**, EF Core, and clean architecture principles.  
+- Built with **.NET Core** and clean architecture principles.  
 - Implements **task-based concurrency** for high performance.  
 - Includes **robust error handling and retry logic** with Polly.  
 - Designed to be easily extended for new data sources.  
@@ -23,7 +23,9 @@ A backend service built with **.NET Core** following **DDD and clean architectur
 - Provides a RESTful API for manga data consumption.  
 - Uses **Entity Framework Core** with MySQL.  
 - Implements **caching, pagination, and search** endpoints.  
-- Includes **systemd deployment scripts** and **Docker support** for production readiness.  
+- Saving images locally or to and S3 bucket
+- Highly flexible and configurable by appsettings.json
+- Includes **deployment scripts** for deployment and **Docker support** for development
 
 ---
 
