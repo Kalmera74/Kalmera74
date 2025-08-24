@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-My name is **Kamil Demirtaş**. I’m a **game developer with 6+ years of experience** in building complex systems, optimizing performance, creating tooling, and leading projects from prototype to production. Over time, my work has naturally expanded into **backend development**, where I’ve designed and maintained scalable systems to support live games and applications.  
+I am  **Kamil**, a **game developer with 6+ years of experience** in building complex systems, optimizing performance, creating tooling, and leading projects from prototype to production. Over time, my work has naturally expanded into **backend development**, where I’ve designed and maintained scalable systems to support live games and applications.  
 
 I’m now **transitioning into backend engineering roles** with a strong focus on **.NET Core** and **Golang**.  
 👉 Open to **backend developer opportunities** where I can apply my system design, memory management, concurrency, and optimization expertise.  
