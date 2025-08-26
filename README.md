@@ -1,9 +1,9 @@
-# Hi there 👋  
+# Hi there 
 
 I am  **Kamil**, a **game developer with 6+ years of experience** in building complex systems, optimizing performance, creating tooling, and leading projects from prototype to production. Over time, my work has naturally expanded into **backend development**, where I’ve designed and maintained scalable systems to support live games and applications.  
 
 I’m now **transitioning into backend engineering roles** with a strong focus on **.NET Core** and **Golang**.  
-👉 Open to **backend developer opportunities** where I can apply my system design, memory management, concurrency, and optimization expertise.  
+ Open to **backend developer opportunities** where I can apply my system design, memory management, concurrency, and optimization expertise.  
 
 ---
 
@@ -29,13 +29,13 @@ A backend service built with **.NET Core** following **DDD and clean architectur
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - **Golang** for backend systems.  
 - Advanced backend patterns (clean architecture, CQRS, distributed systems).  
 
 ---
 
-## 💡 Transferable Skills
+##  Transferable Skills
 - **Backend Engineering**: .NET Core, EF Core, REST APIs, Docker, Linux, systemd services.  
 - **System Architecture & Optimization**: Proven ability to design performant, maintainable systems.  
 - **Database Design**: Relational database experience with MySQL and EF Core.  
@@ -44,14 +44,14 @@ A backend service built with **.NET Core** following **DDD and clean architectur
 
 ---
 
-## 📫 Reach Me
+##  Reach Me
 - 📧 [kalmera74@gmail.com](mailto:kalmera74@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamil-demirtas)  
 - 📝 [Blog](https://kalmera.dev)  
 
 ---
 
-## ⚡ Skill Highlights  
+##  Skill Highlights  
 
 **Backend Engineering**  
 - C#, .NET Core, OOP, DDD  
@@ -66,5 +66,5 @@ A backend service built with **.NET Core** following **DDD and clean architectur
 - Team Leadership & Collaboration  
 
 **In Progress**  
-- Golang 🚀  
+- Golang 
 - JavaScript, PHP, MySQL  
