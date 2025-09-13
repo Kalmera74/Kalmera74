@@ -7,28 +7,15 @@ I’m now **transitioning into backend engineering roles** with a strong focus o
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
-#### [MangaRead.Crawler](https://github.com/Kalmera74/MangaRead.Crawler)  
-A scalable **.NET Core crawler** designed to scrape and aggregate manga data efficiently.  
-- Built with **.NET Core** and clean architecture principles.  
-- Implements **task-based concurrency** for high performance.  
-- Includes **robust error handling and retry logic** with Polly.  
-- Designed to be easily extended for new data sources.  
-
----
-
-#### [MangaRead.Backend](https://github.com/Kalmera74/MangaRead.Backend)  
-A backend service built with **.NET Core** following **DDD and clean architecture**.  
-- Provides a RESTful API for manga data consumption.  
-- Uses **Entity Framework Core** with MySQL.  
-- Implements **caching, pagination, and search** endpoints.  
-- Saving images locally or to and S3 bucket
-- Highly flexible and configurable by appsettings.json
-- Includes **deployment scripts** for deployment and **Docker support** for development
+| Project | Description | Tech & Highlights |
+|---------|-------------|-------------------|
+| [**MangaRead.Crawler**](https://github.com/Kalmera74/MangaRead.Crawler) | A scalable **.NET Core crawler** designed to scrape and aggregate manga data efficiently. | - .NET Core, Clean Architecture <br> - Task-based concurrency <br> - Error handling & retries with Polly <br> - Easily extendable for new sources |
+| [**MangaRead.Backend**](https://github.com/Kalmera74/MangaRead.Backend) | A backend service built with **.NET Core** following **DDD and clean architecture**. | - RESTful API <br> - EF Core + MySQL <br> - Caching, pagination, search <br> - Local/S3 image storage <br> - Docker & deployment scripts |
+| [**Shorty: URL Shortener**](https://github.com/Kalmera74/Shorty/) | A **Golang backend** for a fully featured URL shortener service. | - RESTfull API <br> - Fiber, Gorm, Postgres <br> - Redis & RabbitMQ <br> - JWT authentication <br> - Role-based authorization <br> - Clean vertical-slice architecture |
 
 ---
-
 ##  Currently Learning
 - **Golang** for backend systems.  
 - Advanced backend patterns (clean architecture, CQRS, distributed systems).  
