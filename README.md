@@ -34,8 +34,7 @@ I’m now **transitioning into backend engineering roles** with a strong focus o
 
 ##  Reach Me
 - 📧 [kalmera74@gmail.com](mailto:kalmera74@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kamil-demirtas)  
-- 📝 [Blog](https://kalmera.dev)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kamil-demirtas)   
 
 ---
 
